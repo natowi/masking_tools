@@ -17,4 +17,14 @@ https://github.com/rorodata/background-removal
 https://greenscreen-ai.boorgle.com/
 
 
+Simple Interactive Object Extraction
+http://www.siox.org/
+https://www.youtube.com/watch?v=A_FWoD82U_o
+https://github.com/fiji/SIOX_segmentation
+
+
+
+
+
+
 
