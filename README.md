@@ -39,7 +39,7 @@ Interactive Image Segmentation with Latent Diversity
 http://vladlen.info/publications/interactive-image-segmentation-latent-diversity/
 https://github.com/IntelVCL/Intseg
 
-
+https://www.ilastik.org/
 
 
 
