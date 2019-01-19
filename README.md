@@ -41,6 +41,14 @@ https://github.com/IntelVCL/Intseg
 
 https://www.ilastik.org/
 
+http://structuralsegm.sourceforge.net/
+
+http://matthewalunbrown.com/segment/segment.html
+
+http://www4.comp.polyu.edu.hk/~cslzhang/MSRM/PR_MSRM_website.htm
+
+https://www.groundai.com/project/interactive-full-image-segmentation/
+
 
 List 2
 https://github.com/horvitzs/Interactive_Segmentation_Models
