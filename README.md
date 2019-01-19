@@ -21,12 +21,18 @@ https://github.com/fiji/SIOX_segmentation
 
 G´MIC
 http://opensource.graphics/
+https://www.youtube.com/watch?v=JfxTTU4yba8
+
 
 
 # Image Segmentation
 https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469
 
 https://github.com/facebookresearch/deepmask/blob/master/README.md
+
+https://courses.cs.washington.edu/courses/cse576/book/ch10.pdf
+
+http://vladlen.info/publications/interactive-image-segmentation-latent-diversity/
 
 
 
