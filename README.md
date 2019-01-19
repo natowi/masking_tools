@@ -24,6 +24,7 @@ http://opensource.graphics/
 https://www.youtube.com/watch?v=JfxTTU4yba8
 http://opensource.graphics/tag/image-segmentation/
 
+https://docs.opencv.org/3.4.3/d1/dc5/tutorial_background_subtraction.html
 
 
 # Image Segmentation
