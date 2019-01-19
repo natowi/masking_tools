@@ -19,6 +19,9 @@ http://www.siox.org/
 https://www.youtube.com/watch?v=A_FWoD82U_o
 https://github.com/fiji/SIOX_segmentation
 
+G´MIC
+http://opensource.graphics/
+
 
 # Image Segmentation
 https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469
