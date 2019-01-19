@@ -22,6 +22,7 @@ https://github.com/fiji/SIOX_segmentation
 G´MIC
 http://opensource.graphics/
 https://www.youtube.com/watch?v=JfxTTU4yba8
+http://opensource.graphics/tag/image-segmentation/
 
 
 
