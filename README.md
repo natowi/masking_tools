@@ -29,10 +29,14 @@ https://www.youtube.com/watch?v=JfxTTU4yba8
 https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469
 
 https://github.com/facebookresearch/deepmask/blob/master/README.md
+https://code.fb.com/ml-applications/segmenting-and-refining-images-with-sharpmask/
 
 https://courses.cs.washington.edu/courses/cse576/book/ch10.pdf
 
+Interactive Image Segmentation with Latent Diversity
 http://vladlen.info/publications/interactive-image-segmentation-latent-diversity/
+https://github.com/IntelVCL/Intseg
+
 
 
 
