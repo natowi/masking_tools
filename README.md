@@ -21,7 +21,7 @@ https://github.com/fiji/SIOX_segmentation
 
 
 # Image Segmentation
-
+https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469
 
 
 
