@@ -62,6 +62,9 @@ http://opensource.graphics/tag/image-segmentation/
 
 https://docs.opencv.org/3.4.3/d1/dc5/tutorial_background_subtraction.html
 
+# Text_Segmentation_Image_Inpainting
+https://github.com/yu45020/Text_Segmentation_Image_Inpainting
+
 
 # Image Segmentation
 https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469
