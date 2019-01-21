@@ -85,6 +85,12 @@ http://www4.comp.polyu.edu.hk/~cslzhang/MSRM/PR_MSRM_website.htm
 
 https://www.groundai.com/project/interactive-full-image-segmentation/
 
+https://github.com/kozistr/Awesome-Segmentations
+
+https://github.com/davidstutz/graph-based-image-segmentation
+
+https://github.com/shrutisingala/opencv-Image-Segmentation
+
 
 # List of Interactive_Segmentation_Models
 https://github.com/horvitzs/Interactive_Segmentation_Models
