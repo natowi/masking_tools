@@ -1,5 +1,6 @@
 # Masking / Background removal
 
+# Image Eraser
 Image Eraser allows users to perform image segmentation inside browser using a vector editor (FabricJS) and JS implementations of superpixel algorithms.
 https://github.com/AKSHAYUBHAT/ImageSegmentation
 
