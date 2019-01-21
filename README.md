@@ -6,6 +6,7 @@ https://github.com/AKSHAYUBHAT/ImageSegmentation
 
 License:
 [MIT](https://github.com/AKSHAYUBHAT/ImageSegmentation/blob/master/LICENSE)
+Author: [Akshay Bhat](https://github.com/AKSHAYUBHAT)
 
 
 # Mask R-CNN 
