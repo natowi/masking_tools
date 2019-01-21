@@ -19,6 +19,9 @@ https://github.com/matterport/Mask_RCNN
 An editted version:
 https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb#scrollTo=IIDafmcXSNns
 
+License:
+[MIT](https://github.com/matterport/Mask_RCNN/blob/master/LICENSE) Author: Matterport, Inc.
+
 
 # Background Removal
 
@@ -26,9 +29,13 @@ You can deploy an API to remove background from an image. Such an API can be use
 
 https://github.com/rorodata/background-removal
 
+https://gitlab.com/fast-science/background-removal-server/tree/master/webapp/model
+
 https://medium.com/@burgalon/deploying-your-keras-model-35648f9dc5fb
 
 Demo: https://greenscreen-ai.boorgle.com/
+
+License: ["open source", unknown license](https://medium.com/@burgalon/hey-terry-3cfd3597a799) Authors: The model is developed by Alon Burg and Gidi Shperber
 
 
 # Simple Interactive Object Extraction
@@ -41,6 +48,8 @@ https://www.youtube.com/watch?v=A_FWoD82U_o
 https://imagej.net/SIOX:_Simple_Interactive_Object_Extraction
 
 https://github.com/fiji/SIOX_segmentation
+
+License: [Apache License/GNU GPL, for details read here](https://imagej.net/SIOX:_Simple_Interactive_Object_Extraction) Authors: Ignacio Arganda-Carreras & Contributors
 
 # G´MIC
 The G’MIC plug-in for GIMP allows to interactively extract a foreground object present in a color image, from its background (considering a single-layered bitmap image as the input)
