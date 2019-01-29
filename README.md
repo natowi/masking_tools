@@ -56,11 +56,18 @@ The G’MIC plug-in for GIMP allows to interactively extract a foreground object
 
 http://opensource.graphics/
 
+http://opensource.graphics/how-to-code-a-nice-user-guided-foreground-extraction-algorithm/
+
 https://www.youtube.com/watch?v=JfxTTU4yba8
 
 http://opensource.graphics/tag/image-segmentation/
 
+#OpenCV
 https://docs.opencv.org/3.4.3/d1/dc5/tutorial_background_subtraction.html
+
+Interactive Foreground Extraction using GrabCut Algorithm
+
+https://docs.opencv.org/trunk/d8/d83/tutorial_py_grabcut.html
 
 # Text_Segmentation_Image_Inpainting
 https://github.com/yu45020/Text_Segmentation_Image_Inpainting
