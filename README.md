@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=JfxTTU4yba8
 
 http://opensource.graphics/tag/image-segmentation/
 
-#OpenCV
+# OpenCV
 https://docs.opencv.org/3.4.3/d1/dc5/tutorial_background_subtraction.html
 
 Interactive Foreground Extraction using GrabCut Algorithm
