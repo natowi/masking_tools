@@ -16,7 +16,7 @@ This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The 
 
 https://github.com/matterport/Mask_RCNN
 
-An editted version:
+An edited version:
 https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb#scrollTo=IIDafmcXSNns
 
 License:
