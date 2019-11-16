@@ -58,6 +58,10 @@ http://opensource.graphics/
 
 http://opensource.graphics/how-to-code-a-nice-user-guided-foreground-extraction-algorithm/
 
+http://opensource.graphics/how-to-code-a-nice-user-guided-foreground-extraction-algorithm-addendum/
+
+http://opensource.graphics/category/algorithm/
+
 https://www.youtube.com/watch?v=JfxTTU4yba8
 
 http://opensource.graphics/tag/image-segmentation/
