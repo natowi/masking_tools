@@ -73,6 +73,8 @@ Interactive Foreground Extraction using GrabCut Algorithm
 
 https://docs.opencv.org/trunk/d8/d83/tutorial_py_grabcut.html
 
+https://codeloop.org/python-opencv-grabcut-foreground-detection/
+
 # OpenCV Implementation of the FASA (Fast, Accurate, and Size-Aware Salient Object Detection) algorithm 
 [[code]](https://github.com/mpatacchiola/deepgaze/examples/ex_fasa_saliency_map/ex_fasa_saliency_map_images.py) [[wiki]](http://www.scholarpedia.org/article/Saliency_map) [[example]](https://ivrl.epfl.ch/research-2/research-current/research-saliency/supplementary_material-rk_cvpr09-index-html/page-75957-en-html/) [Abstract/code](https://ivrl.epfl.ch/research-2/research-current/research-saliency/research-saliency-fast_saliency/)
 
