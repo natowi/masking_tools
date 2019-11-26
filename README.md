@@ -69,7 +69,7 @@ http://opensource.graphics/tag/image-segmentation/
 # OpenCV
 https://docs.opencv.org/3.4.3/d1/dc5/tutorial_background_subtraction.html
 
-Interactive Foreground Extraction using GrabCut Algorithm
+Interactive Foreground Extraction using **GrabCut** Algorithm
 
 https://docs.opencv.org/trunk/d8/d83/tutorial_py_grabcut.html
 
@@ -80,6 +80,10 @@ https://codeloop.org/python-opencv-grabcut-foreground-detection/
 
 # Text_Segmentation_Image_Inpainting
 https://github.com/yu45020/Text_Segmentation_Image_Inpainting
+
+# DoubleDIP
+https://github.com/yossigandelsman/DoubleDIP
+http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/index.html
 
 
 # Image Segmentation
