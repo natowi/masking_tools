@@ -37,6 +37,26 @@ Demo: https://greenscreen-ai.boorgle.com/
 
 License: ["open source", unknown license](https://medium.com/@burgalon/hey-terry-3cfd3597a799) Authors: The model is developed by Alon Burg and Gidi Shperber
 
+# Portrait Segmentation using Tensorflow
+
+https://github.com/susheelsk/image-background-removal
+
+# Background subtraction using deep learning method.
+
+https://github.com/SaoYan/bgsCNN
+
+# Background Removal based on U-Net
+
+https://github.com/eti-p-doray/unet-gan-matting
+
+# Background-removal-using-deep-learning (introduction)
+
+https://github.com/YunanWu2168/Background-removal-using-deep-learning
+
+# Background removal of an image using OpenCV and Deep Learning.
+
+https://github.com/aadityavikram/Background-Removal
+
 
 # Simple Interactive Object Extraction
 This is a Fiji plugin based on the SIOX project to segment color images. SIOX stands for Simple Interactive Object Extraction, a method for extracting foreground from still images with very little user interaction.
