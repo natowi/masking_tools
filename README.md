@@ -22,6 +22,10 @@ https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask
 License:
 [MIT](https://github.com/matterport/Mask_RCNN/blob/master/LICENSE) Author: Matterport, Inc.
 
+# Background Matting
+
+https://github.com/senguptaumd/Background-Matting
+
 
 # Background Removal
 
