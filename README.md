@@ -142,5 +142,6 @@ https://github.com/shrutisingala/opencv-Image-Segmentation
 # List of Interactive_Segmentation_Models
 https://github.com/horvitzs/Interactive_Segmentation_Models
 
-
+# Segmentation_based_Semantic_Matting
+https://github.com/Griffin98/Segmentation_based_Semantic_Matting
 
