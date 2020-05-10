@@ -22,6 +22,9 @@ https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask
 License:
 [MIT](https://github.com/matterport/Mask_RCNN/blob/master/LICENSE) Author: Matterport, Inc.
 
+# U-2-Net
+https://github.com/NathanUA/U-2-Net
+
 # Background Matting
 
 https://github.com/senguptaumd/Background-Matting
