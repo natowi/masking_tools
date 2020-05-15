@@ -141,6 +141,8 @@ https://github.com/davidstutz/graph-based-image-segmentation
 
 https://github.com/shrutisingala/opencv-Image-Segmentation
 
+https://github.com/lim-anggun/FgSegNet
+
 
 # List of Interactive_Segmentation_Models
 https://github.com/horvitzs/Interactive_Segmentation_Models
