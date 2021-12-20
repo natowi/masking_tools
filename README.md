@@ -31,6 +31,10 @@ https://github.com/OPHoperHPO/image-background-remove-tool
 # U-2-Net
 https://github.com/NathanUA/U-2-Net
 
+# Rembg (python/cli)
+Rembg is a tool to remove images background. 
+https://github.com/danielgatis/rembg
+
 # Background Matting
 
 https://github.com/senguptaumd/Background-Matting
