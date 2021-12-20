@@ -28,8 +28,15 @@ Tool for removing background from image using neural networks using U^2-net, BAS
 
 https://github.com/OPHoperHPO/image-background-remove-tool
 
+# backgroundremover (python/cli)
+BackgroundRemover is a command line tool to remove background from video and image
+https://github.com/nadermx/backgroundremover
+
 # U-2-Net
+
 https://github.com/NathanUA/U-2-Net
+
+https://github.com/shreyas-bk/U-2-Net-Demo
 
 # Rembg (python/cli)
 Rembg is a tool to remove images background. 
