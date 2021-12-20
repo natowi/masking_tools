@@ -38,6 +38,8 @@ https://github.com/NathanUA/U-2-Net
 
 https://github.com/shreyas-bk/U-2-Net-Demo
 
+https://github.com/dennisbappert/u-2-net-portrait
+
 # Rembg (python/cli)
 Rembg is a tool to remove images background. 
 https://github.com/danielgatis/rembg
@@ -45,6 +47,10 @@ https://github.com/danielgatis/rembg
 # Background Matting
 
 https://github.com/senguptaumd/Background-Matting
+
+# MODNet
+MODNet is a model for real-time portrait matting with only RGB image input.
+https://github.com/ZHKKKe/MODNet
 
 
 # Background Removal
